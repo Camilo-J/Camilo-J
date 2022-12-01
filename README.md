@@ -5,17 +5,13 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=github.com/Camilo-J/Camilo-J&left_text=Visitors)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
+I'm a student who lives in Peru. I enjoy programming in ruby and its framework Rails.
 
-I'm a student who lives in Peru. I'm learning how to code. I enjoy programming in ruby and its framework Rails.
-
-For my programming projects, I usually only upload to Github once I make significant progress. My favorite tools for design is Figma. 
-
-- 🔭 I’m currently working on creating websites with rails. 
 - 🌱 &nbsp;I’m currently learning Javascript, Typescript and React
 - 😀 I like to  code, read, and watch videos of ui design in my free time.
 - 💬 &nbsp;Ask me about anything related to Posgresql/Ruby on Rails/Sql server/html and css
 - 📫 &nbsp;How to reach me: [@Camilo-J](https://github.com/Camilo-J) 
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s, PC Gaming and books
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s, videogames and books
 
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
