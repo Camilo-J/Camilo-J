@@ -10,7 +10,7 @@ I'm a full stack developer. I enjoy programming in Rails and React.
 - 🌱 &nbsp;I’m currently learning Javascript, Typescript and React
 - 😀 I like to  code, read, and watch videos of ui design in my free time.
 - 💬 &nbsp;Ask me about anything related to Posgresql/Ruby on Rails/React/Tailwind
-- 📫 &nbsp;How to reach me: [@Camilo-J](https://github.com/Camilo-J) 
+- 📫 &nbsp;How to reach me: [josecamilo1902@gmail.com](https://github.com/Camilo-J) 
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, videogames and books
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgresql,tailwind,js,ts,react,emotion,figma,git,github,linux)](https://skillicons.dev)
