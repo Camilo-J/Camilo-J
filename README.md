@@ -10,10 +10,10 @@ I'm a full stack developer. I enjoy programming in Rails and React.
 - 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of vanilla JavaScript, React and Rails.
 - 😀 I like to  code, read, and watch videos of videogames.
 - 💬 &nbsp;Ask me about anything related to Posgresql/Ruby on Rails/React/Tailwind
-- 📫 &nbsp;How to reach me: [josecamilo1902@gmail.com](https://github.com/Camilo-J) 
+- 📫 &nbsp;How to reach me: [josecamilo1902@outlook.com](https://github.com/Camilo-J) 
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, videogames and books
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgresql,tailwind,js,ts,react,emotion,figma,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgresql,tailwind,js,ts,nodejs,react,emotion,figma,git,github,linux,docker)](https://skillicons.dev)
 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Camilo-J&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
