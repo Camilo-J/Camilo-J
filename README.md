@@ -5,9 +5,9 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=github.com/Camilo-J/Camilo-J&left_text=Visitors)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
-I'm a full stack developer. I enjoy programming in Rails and React.
+I'm a full stack developer. I enjoy programming in Rails, NodeJs and React.
 
-- 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of vanilla JavaScript, React and Rails.
+- 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of vanilla JavaScript, React and NodeJs.
 - 😀 I like to  code, read, and watch videos of videogames.
 - 💬 &nbsp;Ask me about anything related to Posgresql/Ruby on Rails/React/Tailwind
 - 📫 &nbsp;How to reach me: [josecamilo1902@outlook.com](https://github.com/Camilo-J) 
