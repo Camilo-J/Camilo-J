@@ -2,7 +2,7 @@
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=github.com/Camilo-J/Camilo-J&left_text=Visitors)
+![](https://komarev.com/ghpvc/?username=Camilo-J)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 I'm a full stack developer. I enjoy programming in Rails, NodeJs and React.
