@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=Camilo-J)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
-I'm a full stack developer. I enjoy programming in Rails, NodeJs and React.
+I'm a Software Developer. I enjoy programming in Rails, NodeJs and React.
 
-- 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of vanilla JavaScript, React, Rails and NodeJs.
+- 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of JavaScript, React and AWS.
 - 😀 I like to  code, read, and watch videos of videogames.
-- 💬 &nbsp;Ask me about anything related to Posgresql/Ruby on Rails/React/Tailwind
-- 📫 &nbsp;How to reach me: [josecamilo1902@gmail.com](https://github.com/Camilo-J) 
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s, videogames and books
+- 💬 &nbsp;Ask me about anything related to Typescrit/NodeJs/React/Tailwind
+- 📫 &nbsp;How to reach me: [josecamilo1902@outlook.com](https://github.com/Camilo-J) 
+- ⚡ &nbsp;Fun fact: I :heart: swimming, videogames and books
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgresql,tailwind,js,ts,nodejs,react,emotion,figma,git,github,linux,docker)](https://skillicons.dev)
 
