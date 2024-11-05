@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=Camilo-J)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
-I'm a Software Developer. I enjoy programming in NodeJs and React.
+I'm a Software Developer. I enjoy programming in NodeJs, Rails, Laravel and AWS.
 
-- 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of JavaScript, React and AWS.
+- 🌱 &nbsp;I’m currently working on improving my skills in Javascript ecosystem, AWS and elixir.
 - 😀 I like to  code, read, and watch videos of videogames.
 - 💬 &nbsp;Ask me about anything related to Typescrit/NodeJs/React/Tailwind
 - 📫 &nbsp;How to reach me: [josecamilo1902@outlook.com](https://github.com/Camilo-J) 
-- ⚡ &nbsp;Fun fact: I :heart: swimming, videogames and books
+- ⚡ &nbsp;Fun fact: I :heart: swimming, functional programming and books
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,tailwind,js,ts,nodejs,react,jest,vitest,cypress,git,github,gitlab,linux,docker,aws)](https://skillicons.dev)
 
